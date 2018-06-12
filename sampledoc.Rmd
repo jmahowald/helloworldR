@@ -22,6 +22,7 @@ summary(cars)
 ```{r cars}
 plot(cars)
 ```
+this is a plot of cars
 
 
 ## Including Plots
