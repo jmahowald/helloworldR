@@ -17,9 +17,11 @@ I can include R code in the document as follows:
 
 ```{r cars}
 summary(cars)
+
+plot(cars)
 ```
 
-```{r cars}
+```
 plot(cars)
 ```
 this is a plot of cars
